@@ -12,7 +12,7 @@ import LperfumeImg4 from "@/assets/LperfumeImg4.png";
 import LperfumeImg5 from "@/assets/LperfumeImg5.png";
 
 
-import '@/styles/product.css'; 
+import '@/styles/Product.css'; 
 
 interface Product {
   name: string;
